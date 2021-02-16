@@ -1,13 +1,16 @@
 body {
-	background-color: #B2E9FD;
+	background-color: #000000;
+	background-image: url("Pirate_Flag_of_Jack_Rackham.svg_.png");
+background-color: #000000;
+	
 }
 
 .header h2 {
-	color: #DC4247;
+	color: #ff0000;
 }
 
 .header p {
-	color: #50524F;
+	color: #ff0000;
 }
 
 .results {
